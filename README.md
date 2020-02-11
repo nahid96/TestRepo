@@ -1,2 +1,2 @@
 # TestRepo
-Repository for testing
+Repository for testing project
